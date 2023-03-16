@@ -1,0 +1,33 @@
+[{ "question":"What is the Capital of India?",
+    "options":["Mumbai","Chennai","Pune","New Delhi"],
+    "answer":"d"
+  },
+  { "question":"Who was India's first Prime Minister?",
+    "options":["Jawaharlal Nehru","Indira Gandhi","Mahatman Gandhi","Vallabhbhai Patel"],
+    "answer":"a"
+  },
+  {"question": "What is the capital of France?",
+  "options": ["Paris", "London", "Berlin", "Madrid"],
+  "answer": "a"
+  },
+ {
+     "question": "What is the largest planet in our solar system?",
+     "options": ["Mars", "Venus", "Jupiter", "Saturn"],
+     "answer": "c"
+ },
+ {
+     "question": "What is the boiling point of water?",
+     "options": ["0 degrees Celsius", "50 degrees Celsius", "100 degrees Celsius", "150 degrees Celsius"],
+     "answer": "c"
+ },
+ {
+     "question": "Which country won the 2018 FIFA World Cup?",
+     "options": ["Brazil", "Germany", "France", "Spain"],
+     "answer": "c"
+ },
+ {
+     "question": "Who is the CEO of Tesla?",
+     "options": ["Mark Zuckerberg", "Elon Musk", "Bill Gates", "Jeff Bezos"],
+     "answer": "b"
+ }
+]
